@@ -1,5 +1,3 @@
-![Uploading 20240909_184117.png…]()
-
 <h2 id="xd">Table of Contents</h2>
 - <a href="#important-announcement">Important Announcement</a> <br>
 - <a href="#abulachan">AbulaChan</a> <br>
